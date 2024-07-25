@@ -1,3 +1,3 @@
-# AI Crew for Recruitment
+# AI for Recruitment
 
-Cloned Crew Ai Project which demonstrate how to build recruitment AI app.
+Cloned Ai Project which demonstrate how to build recruitment AI app.
